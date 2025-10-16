@@ -1,0 +1,522 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:14:02] "GET /uploads/520d5771-e59c-4239-8bb3-0bfdc6eba829_merged.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:19:48] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:19:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error occurred: [Errno 2] No such file or directory: 'uploads/d0ce3406-cdf0-4d42-b7d1-53bc6bf3e595.pdf'
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:20:16] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:21:46] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:21:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:23:13] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:23:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 09:36:40] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 09:36:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 09:42:52] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 09:46:47] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 09:49:56] "GET /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 09:50:15] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 09:54:03] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 09:56:26] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:03:25] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:10:23] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:15:20] "GET /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:16:04] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:20:02] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:24:53] "[31m[1mGET /mergepdf HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:24:54] "[31m[1mGET /mergepdf HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:24:54] "[31m[1mGET /mergepdf HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:33:30] "GET /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:33:52] "POST /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:36:47] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:37:30] "GET /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:37:40] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:39:44] "GET /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:39:54] "POST /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:40:05] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:43:10] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:43:38] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:43:40] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:43:50] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:47:57] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:47:57] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:56:09] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:56:37] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:56:37] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:56:38] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:56:38] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:56:38] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:57:19] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:57:28] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:57:28] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 10:57:28] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:05:44] "GET /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:10:43] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:11:02] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:11:02] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:11:03] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:11:03] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:11:03] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:13:11] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:13:36] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:13:37] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:13:39] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:13:39] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:13:39] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:15:43] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:16:38] "POST /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:16:38] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:16:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:16:52] "[33mGET /static/icons/facebook.svg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:16:52] "[33mGET /static/icons/twitter.svg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:16:52] "[33mGET /static/icons/github.svg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:16:52] "[33mGET /static/icons/linkedin.svg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:16:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:16:55] "[31m[1mGET /mergepdf HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:18:43] "[31m[1mGET /mergepdf HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:18:44] "[31m[1mGET /mergepdf HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:18:47] "GET / HTTP/1.1" 200 -
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:19:00] "POST /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: 413 Request Entity Too Large: The data value transmitted exceeds the capacity limit.
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:20:07] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+ERROR:root:Error occurred: [Errno 2] No such file or directory: 'uploads/43a72cdc-33f7-4957-9ca7-ef0e1c48aca3.pdf'
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:21:56] "POST /mergepdf HTTP/1.1" 200 -
+ERROR:root:Error occurred: [Errno 2] No such file or directory: 'uploads/66144b61-ec90-4ef2-ae8a-842e1eb462f9.pdf'
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:31:43] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:53:24] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:53:25] "GET /progress?file=/output/merged_20250514_115315_ded87d94-94d8-4fa6-b523-57dbff45a24b.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:03:29] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:03:29] "GET /progress?file=/output/merged_20250514_120319_973793a0-307a-4d1a-ad93-fde799b752be.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:12:33] "[32mPOST /mergepdf HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:12:33] "GET /progress?file=/output/merged_20250514_121224_2a93b1bc-907d-400a-8d71-07fb8b7944e0.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:20:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:20:32] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:26:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:26:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 17:59:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:02:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:03:08] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:03:08] "GET /progress?file=/output/merged_20250514_180258_f407d891-e5b0-4793-89f7-7f9a498f605a.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:03:20] "GET /output/merged_20250514_180258_f407d891-e5b0-4793-89f7-7f9a498f605a.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:05:21] "POST /mergepdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:05:21] "GET /progress?file=/output/merged_20250514_180508_0bb56c37-efe0-4614-ac5b-4e2e971f1a54.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:19:55] "[33mPOST /mergepdf HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:26:22] "[33mPOST /mergepdf HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:26:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:26:39] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:26:39] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:34:06] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 18:34:06] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 19:01:45] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 19:01:46] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 19:02:39] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 19:02:39] "[31m[1mGET /progress?file=merged_20250514_190156_1ed8e00b-477b-4b78-a0d9-be5368ac4256.pdf HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 19:03:21] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 19:58:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 19:58:29] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 19:58:29] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:04:23] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:04:36] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:04:36] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:06:55] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:06:55] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:14:16] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:14:25] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:14:25] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:18:45] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:18:57] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:18:57] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:23:06] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:23:06] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:25:24] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:25:24] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:27:06] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:27:06] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:37] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:38] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:38] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:38] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:38] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:39] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:39] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:29:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:31:27] "[31m[1mGET /progress?file=undefined HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:38:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:38:29] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:38:53] "GET /progress?session_id=c87308a3-9390-445b-90c7-8dd9a77e64aa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:41:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:42:09] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 20:42:21] "GET /progress?session_id=772fd242-377c-4499-b487-bf16a1cfe9e8 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:47:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:47:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:47:35] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:47:46] "GET /progress?session_id=c161a8be-31a7-4b6f-a82e-67efa526492f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:00] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:08] "GET /progress?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:09] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:10] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:11] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:12] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:13] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:14] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:15] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:16] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:17] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:18] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:19] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:20] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:21] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:22] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:23] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:24] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:25] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:26] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:27] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:28] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:29] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:30] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:31] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:32] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:33] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:34] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:35] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:36] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:37] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:38] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:39] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:40] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:41] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:42] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:43] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:44] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:45] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:46] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:47] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:48] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:49] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:50] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:51] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:52] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:53] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:54] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:55] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:56] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:57] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:58] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:57:59] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:00] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:01] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:02] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:03] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:04] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:05] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:06] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:07] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:08] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:09] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:10] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:11] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:12] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:13] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:14] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:15] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:16] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:17] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:18] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:19] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:20] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:21] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:22] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:23] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:24] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:25] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:26] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:27] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:28] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:29] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:30] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:31] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:32] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:33] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:34] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:35] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:36] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:37] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:38] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:39] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:40] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:41] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:42] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:43] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:44] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:45] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:46] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:47] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:48] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:49] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:50] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:51] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:52] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:53] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:54] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:55] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:56] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:57] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:58] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:58:59] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:59:00] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:59:01] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 21:59:29] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:00:29] "[33mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:01:29] "[35m[1mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:01:44] "[35m[1mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:01:45] "[35m[1mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:01:46] "[35m[1mGET /progress-status?session_id=64875c46-682a-4f78-94ce-1c13190b49a9 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:01:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:02:57] "POST /start-merge HTTP/1.1" 200 -
+ERROR:root:Merge error on progress page: 'function' object does not support item assignment
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:02:57] "[35m[1mGET /progress?session_id=194b429a-e2fa-4fcf-a046-30eabc231325 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:06:04] "[31m[1mGET /progress?session_id=194b429a-e2fa-4fcf-a046-30eabc231325 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:06:05] "[31m[1mGET /progress?session_id=194b429a-e2fa-4fcf-a046-30eabc231325 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:06:16] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:06:16] "[31m[1mGET /progress?session_id=64583be2-25e9-4cd8-80cc-0ac0ad666978 HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:08:05] "[33mGET /progress?session_id=64583be2-25e9-4cd8-80cc-0ac0ad666978 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:08:20] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:08:20] "[33mGET /progress?session_id=ba2d809b-b280-41c6-bf1d-5c36da268bfc HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:08:48] "[31m[1mGET /progress?session_id=ba2d809b-b280-41c6-bf1d-5c36da268bfc HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:45] "[35m[1mGET /progress?session_id=ba2d809b-b280-41c6-bf1d-5c36da268bfc HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:45] "GET /progress?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:45] "GET /progress?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:45] "GET /progress?__debugger__=yes&cmd=resource&f=console.png&s=M46pJt7o5zCpDaDQJpid HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:45] "GET /progress?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:49] "[35m[1mGET /progress?session_id=ba2d809b-b280-41c6-bf1d-5c36da268bfc HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:49] "[36mGET /progress?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:49] "[36mGET /progress?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:49] "[36mGET /progress?__debugger__=yes&cmd=resource&f=console.png&s=M46pJt7o5zCpDaDQJpid HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:09:49] "[36mGET /progress?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+ERROR:root:Merge error on progress page: 'function' object does not support item assignment
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:11:29] "[35m[1mGET /progress?session_id=ba2d809b-b280-41c6-bf1d-5c36da268bfc HTTP/1.1[0m" 500 -
+ERROR:root:Merge error on progress page: 'function' object does not support item assignment
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:11:31] "[35m[1mGET /progress?session_id=ba2d809b-b280-41c6-bf1d-5c36da268bfc HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:16:08] "POST /start-merge HTTP/1.1" 200 -
+ERROR:root:Merge error on progress page: 'function' object does not support item assignment
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:16:08] "[35m[1mGET /progress?session_id=96a89f95-eaeb-421f-b60c-4c010168c85b HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:07] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:13] "GET /progress?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:14] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:15] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:16] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:17] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:18] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:19] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:20] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:21] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:22] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:23] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:24] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:25] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:26] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:27] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:28] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:29] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:30] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:31] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:32] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:33] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:34] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:35] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:36] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:37] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:38] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:39] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:40] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:41] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:42] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:43] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:44] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:45] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:46] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:47] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:48] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:49] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:50] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:51] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:52] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:53] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:54] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:55] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:56] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:57] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:19:59] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:00] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:01] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:02] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:03] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:04] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:05] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:06] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:07] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:08] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:09] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:10] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:10] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:20:11] "[33mGET /progress-status?session_id=14cf5e28-ddbe-4227-b84e-e11802cfc557 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:34:33] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 22:34:33] "[33mGET /progress?session_id=731abcd7-f2cb-4d10-b7ec-ae6c05194a79 HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 787-545-105
+INFO:werkzeug:127.0.0.1 - - [15/May/2025 09:49:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/May/2025 09:49:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/May/2025 09:50:13] "POST /start-merge HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/May/2025 09:50:13] "[33mGET /progress?session_id=4981cda2-8feb-4410-a736-fff39f7d605f HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/iman/Bureau/my tools/app.py', reloading
+INFO:werkzeug: * Restarting with stat
