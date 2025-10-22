@@ -25,6 +25,8 @@ from compress.routes import compress_bp
 from blogger.routes import blog_bp
 from contact_us.route import contact_bp
 from flask import Flask, render_template
+import os
+
 def create_app():
     app = Flask(__name__)
     app.secret_key = 'supersecretkey'
@@ -91,3 +93,10 @@ def create_app():
 if __name__ == '__main__':
     app = create_app()
     app.run(debug=True)
+
+
+    # في نهاية الملف
+app = create_app()
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)), debug=True)
