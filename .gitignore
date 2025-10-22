@@ -7,3 +7,4 @@ __pycache__/
 
 # ملفات النظام الشائعة
 .DS_Store
+venv/
