@@ -22,6 +22,7 @@ Flask==3.1.0
 Flask-Caching==2.3.1
 fonttools==4.58.0
 fpdf==1.7.2
+gunicorn
 idna==3.10
 imageio==2.37.0
 imageio-ffmpeg==0.6.0
